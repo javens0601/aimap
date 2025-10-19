@@ -1,0 +1,2 @@
+# aimap
+my ai map
