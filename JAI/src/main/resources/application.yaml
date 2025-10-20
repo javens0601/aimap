@@ -1,0 +1,12 @@
+spring:
+  ai:
+    openai:
+      api-key: ollama
+    ollama:
+      base-url: http://192.168.18.129:11434
+  application:
+    name: JAI
+
+logging:
+  level:
+    root: debug
